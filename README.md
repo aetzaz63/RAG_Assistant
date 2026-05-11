@@ -2,6 +2,10 @@
 
 A full-stack RAG application: a FastAPI backend for document indexing and Q&A, paired with a Next.js frontend that gives you a proper web interface — drag-and-drop uploads, real-time document status, and cited answers with clickable source references.
 
+OUTPUT UI :
+<img width="1351" height="688" alt="image" src="https://github.com/user-attachments/assets/197edbed-7496-4864-b513-26b4a831c759" />
+
+
 **What you'll learn :**
 - Building a real frontend (Next.js + TypeScript + Tailwind) that talks to a FastAPI backend
 - Asynchronous background indexing: upload returns instantly while indexing happens behind the scenes
